@@ -1,0 +1,4 @@
+text,label,notes
+"DELETE THIS ROW — example only. Paste one real r/nba comment per row. The notebook splits this file 70/15/15 automatically, so keep it as ONE file.",hot_take,"format demo — remove before training"
+"DELETE THIS ROW — example only. The label column must be one of your exact label strings (e.g. analysis / hot_take / reaction) — keep them spelled identically every time.",analysis,"format demo — remove before training"
+"DELETE THIS ROW — example only. Use the notes column for borderline cases: which two labels it sat between and why you chose the one you did.",reaction,"format demo — remove before training"
