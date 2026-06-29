@@ -1,4 +1,212 @@
 text,label,notes
-"DELETE THIS ROW — example only. Paste one real r/nba comment per row. The notebook splits this file 70/15/15 automatically, so keep it as ONE file.",hot_take,"format demo — remove before training"
-"DELETE THIS ROW — example only. The label column must be one of your exact label strings (e.g. analysis / hot_take / reaction) — keep them spelled identically every time.",analysis,"format demo — remove before training"
-"DELETE THIS ROW — example only. Use the notes column for borderline cases: which two labels it sat between and why you chose the one you did.",reaction,"format demo — remove before training"
+ESPN doesn’t feel threatened to improve their draft coverage because they’ve owned it for decades...,analysis,media competition + incentive structure explanation
+ESPN is bad  but NBA also approves the format like couch interviews,analysis,shared responsibility between league and broadcaster
+Not TV people but basketball people vs TV people problem,analysis,production critique of NBA broadcasts
+Media training makes players sound generic/politician-like,analysis,explains cause of repetitive interviews
+Split draft into 2 nights due to strategy + business reasons,analysis,structural explanation of format change
+Draft coverage has always been similar; not necessarily worse now,analysis,comparative historical reasoning
+ESPN prioritizes gambling and ads over product quality,analysis,incentive-based critique
+NFL draft coverage is so much better than NBA,hot_take,cross-league comparison ranking
+I think I watched about 45 seconds of the draft then turned it off,reaction,personal emotional reaction
+Haven’t watched the draft in years,reaction,disengagement reaction
+The interviews are way too long and just awkward,reaction,viewer frustration
+The couch interviews are bad,reaction,reaction to broadcast format
+No player comparisons anymore,reaction,complaint about missing analysis format
+Draft stretched into two nights is insane,reaction,emotional criticism of structure
+ESPN ruins everything,reaction,general emotional complaint
+This feels about right,reaction,agreement reaction with no reasoning
+ESPN is just a channel for gambling promotion,analysis,system-level media critique
+Too many identical puff piece interviews kill momentum,reaction,format frustration
+We need more highlights and less interviews,reaction,production preference complaint
+NBA product is inferior to NFL media presentation,hot_take,comparative league evaluation
+NFL draft interviews feel more emotional and real,analysis,comparative media analysis
+Draft is literally just roster updates,reaction,minimalist dismissive reaction
+I never watch the draft in any sport,reaction,disengagement statement
+It’s just boring roster updates,reaction,general reaction judgment
+Mo Bamba. I GOT HOOOOOOEEEEEEZZZ,reaction,meme / hype reaction
+CAAAAAALLLLLLLLIIIIINNNNNNNNNNNN,reaction,exaggerated hype
+I’d live for toxic discourse if Jaylen Brown won MVP and FMVP before Tatum,analysis,narrative / rivalry discussion
+I’d start spreading Maxey propaganda,reaction,meme / bias behavior
+I’ve been doing that for 5 years now,reaction,continuation joke
+Ant or Brunson,hot_take,MVP candidate selection
+Cade,hot_take,MVP candidate
+MPJ,hot_take,MVP candidate mention
+Please no. His MVP speech would be weird,reaction,personality criticism
+Maxey Brunson and Cade are only acceptable answers,analysis,filtering candidates
+Brunson or Jaylen Brown,hot_take,MVP selection
+KD,hot_take,MVP candidate
+Curry if he carries his team,analysis,conditional MVP logic
+Brunson,hot_take,MVP pick
+Jesus Christ  it’s Jason Bourne,reaction,meme response
+Jaylen Brown would be awesome. Realistically Cade,analysis,balanced take
+Russel Westbrook fantasy MVP scenario,reaction,meme narrative
+Tyrese or Ant,hot_take,MVP candidates
+Embiid obviously,hot_take,MVP pick
+Brunson has been on a heater,analysis,performance justification
+Cade/Brown/Brunson based on record,analysis,record-based MVP logic
+Hopefully Brunson,reaction,preference
+That would be unfortunate injuries talk,analysis,injury context
+The disrespect to Brown SMH,reaction,emotional reaction
+My mom is the real MVP,reaction,joke answer
+LeBron hits game-tying 3 and Lakers win in OT,reaction,pure event summary / hype moment
+Lakers go 3-0 in first round  surprising everyone,reaction,excitement / surprise
+JJ is a really good coach,hot_take,opinion stated without evidence
+The gap between Reddick and Udoka is the game changer,analysis,comparative reasoning about coaching impact
+Bronny outscored Houston bench 5-3  let that sink in,reaction,meme-style stat reaction
+LeBron +0  Bronny +4,reaction,meme stat comparison
+One of the worst playoff chokes ever considering context,hot_take,strong evaluative claim
+Rockets up 6 with 30 seconds and still lost  crazy,reaction,emotional summary of collapse
+The number of mistakes to lose that game was insane,analysis,causal explanation of outcome
+Marcus Smart “Genius vs Dumb” comment,reaction,humor/meme framing
+Houston we have many problems,hot_take,vague judgment
+Shooting limitations make offense collapse under pressure,analysis,structured basketball reasoning
+I love playoff guard mismatch hunting,reaction,opinion/feel statement
+Every playoff game is mismatch hunting every possession,analysis,general tactical observation
+Reed Sheppard is getting hunted in playoffs,analysis,specific tactical observation
+Player struggled when forced into high volume shooting role  inconsistency shows,analysis,reasoning about performance + causation
+Lakers up 3-0 against Rockets is insane  no one predicted this,reaction,surprise + hype
+Lakers sweeping Rockets is shocking  didn’t expect this at all,reaction,emotional reaction
+Thunder vs Lakers will be a massive media matchup,hot_take,prediction/opinion
+Rockets lost two possessions in under 24 seconds  unbelievable collapse,analysis,structured description of failure sequence
+Marcus Smart is a dawg  Reed Sheppard was awful,hot_take,opinionated player evaluation
+Smart’s motor explains his impact  he just plays nonstop energy,analysis,causal explanation of performance trait
+He never plays below 100% effort  that’s his identity,analysis,structured attribute reasoning
+Lebron shot making has elevated the whole series,analysis,performance impact reasoning
+Udoka coaching changes vs KD situation speculation,hot_take,speculative opinion
+Rockets locker room description (Emotional narrative scene),reaction,storytelling + emotion
+KD burner accounts joke / meme comment,reaction,meme / humor
+“Hilarious 4th quarter”,reaction,pure reaction
+Rockets choke explanation with timeline breakdown,analysis,structured breakdown of events
+Lebron is 41  this won’t last much longer,hot_take,prediction
+Lebron age joke / torch passing meme,reaction,humor
+Marcus Smart playoff performance praise,hot_take,opinionated praise without data
+Reed Sheppard criticism  “worst I’ve seen”,hot_take,strong subjective judgment
+Rockets young core is garbage  not playoff ready,hot_take,harsh opinion
+Rockets franchise history collapse list,analysis,structured historical pattern
+Marcus Smart carried the game with key plays,analysis,performance attribution reasoning
+Lakers collecting Celtics PGs narrative joke,reaction,meme framing
+Lebron age meme / humor,reaction,humor
+Rockets choke analysis with possession breakdown,analysis,tactical explanation
+KD criticizing teammates narrative,reaction,meme/controversial quote
+Rockets loss is franchise-crushing moment,hot_take,strong evaluative claim
+Dumbest loss ever seen  basketball terrorists comment,hot_take,emotional extreme judgment
+Possession + 6 point lead explanation of choke,analysis,structured reasoning
+Lebron inbound pass mistakes commentary,analysis,performance critique with detail
+Rockets should blow everything up,hot_take,opinionated recommendation
+“Once you trade for KD  you already have” meme,reaction,joke / meme
+Curry  way downtown  BANG.....BANG,reaction,iconic broadcast call
+Oh what a shot by Curry,reaction,short reaction
+That was the greatest sports thing I've seen live,reaction,personal emotional reaction
+He makes every 3 look like the easiest 3 ever,analysis,commentary on skill/efficiency
+Stephortless,reaction,meme-style emotional reaction
+We just got skyfucked,reaction,"slang reaction, no reasoning"
+He just walked into that shit and drained it,analysis,describes mechanics of play
+GREAT call by Kerr not to call timeout,analysis,tactical explanation
+He was so casual about it smug little sexy bitch,reaction,"emotional + humor, no structured reasoning"
+Curry has been locked in since coming back from injury,analysis,performance-based explanation
+So fucking casual lol shit was like second nature to him,reaction,expressive admiration
+CLUTCH,reaction,single-word emotional response
+Curry loves game winners against the Mavs,analysis,pattern observation
+In the 1st quarter... bet shotgun beers...,reaction,story-based emotional anecdote
+"“Have a timeout, they are not using it”",reaction,"commentator quote, immediate broadcast-style reaction"
+"Curry, way downtown, BANG.....BANG",reaction,"iconic play-by-play call, emotional highlight"
+Oh what a shot by Curry,reaction,short live reaction to made shot
+That was the greatest sports thing I've seen live,reaction,personal emotional reaction
+He makes every 3 look like the easiest 3 ever,analysis,commentary on shooting efficiency and skill
+Stephortless,reaction,meme-style reaction / wordplay
+We just got skyfucked,reaction,"slang reaction, emotional meme response"
+He just walked into that shit and drained it,analysis,describes play mechanics and execution
+GREAT call by Kerr not to call timeout,analysis,tactical coaching decision explanation
+He was so casual about it smug little sexy bitch,reaction,emotional + humorous insult-style reaction
+Curry has been locked in since coming back from injury,analysis,performance trend observation
+So fucking casual lol shit was like second nature to him,reaction,"expressive admiration, informal tone"
+CLUTCH,reaction,single-word emotional reaction
+Curry loves game winners against the Mavs,analysis,pattern recognition across games
+In the 1st quarter my bud made a bet... shotgun beers,reaction,anecdotal story reacting to hype moment
+He made that look like the easiest 3 ever,analysis,skill observation and shot difficulty commentary
+SKYFUCKER,reaction,meme nickname / emotional hype label
+NO OT TONIGHT,reaction,emotional conclusion to game winner
+Ball game,reaction,broadcast-style closing call
+That shot was so casual lol,reaction,informal emotional reaction
+Dirk with the solid close out,analysis,brief technical defensive observation
+Teams need to stop sleeping on Dallas,analysis,general performance/team evaluation
+MVP,reaction,simple emotional judgment
+This is the most leisurely game winner I have ever seen,analysis,descriptive evaluation of play style
+I love Curry,reaction,emotional admiration
+SK3PH,reaction,stylized meme/wordplay reaction
+Curry breaks hearts,reaction,emotional narrative summary
+LeBron nails the Game 7 DAGGER,reaction,iconic title moment
+One of my favorite Lebron moments,reaction,personal appreciation
+He just clinched an all-time Game 7,analysis,significance of moment
+He struggled from outside then hit 5 threes,analysis,performance breakdown
+The Spurs begged him to shoot,analysis,defensive strategy
+That game had a 20.6 BPM,analysis,stat mention (Box Plus Minus)
+Box + - I assume,reaction,confusion about stat
+How do you get 20.6 in one game,reaction,stat questioning
+Box Plus Minus is misleading name,analysis,stat explanation
+This was such a great game,reaction,emotional reaction
+Not as iconic as Game 6 but amazing,analysis,comparison insight
+They forced LeBron on an island,analysis,defensive strategy breakdown
+He was lethal from everywhere,analysis,efficiency observation
+This strategy worked for six games,analysis,series breakdown
+A plan doesn’t work flawlessly if half works,reaction,counter argument
+How is this not talked about more,reaction,surprise/confusion
+Narrative said Bron not clutch,analysis,media narrative critique
+People revise narrative or definition of clutch,analysis,concept explanation
+Root of argument is 2011 finals,analysis,cause of narrative
+He bounced back stronger after failure,analysis,career trajectory
+Everyone fails at some point,analysis,general statement
+First season with new team,analysis,context explanation
+Media blows everything around LeBron up,analysis,media bias
+Shaq got parade nobody cared,analysis,comparison
+Clutch is a dumb talking point,analysis,statistical critique
+This is one of the most clutch shots ever,reaction,opinionated praise
+Ray Allen shot gets more attention,analysis,comparison
+People ignore it due to narrative bias,analysis,media critique
+Still 28 seconds left,analysis,context detail
+LeBron hate is still real,reaction,emotional statement
+That shot should be talked about more,reaction,opinion
+Duncan missed a bunny before shot,analysis,game context
+Bosh Allen Miller went 0-14,analysis,stat breakdown
+Only 5 of 9 Heat players scored,analysis,box score insight
+Danny Green was insane in finals,analysis,performance note
+That Spurs team was so good,reaction,appreciation
+Peak Villain LeBron was entertainment,reaction,narrative nostalgia
+He stopped being villain in 2011,analysis,timeline claim
+Skip Bayless drives narrative,analysis,media influence
+Redditors also hate LeBron,reaction,generalization
+I hated LeBron so much then,reaction,fan emotion
+This was a legendary moment,reaction,strong praise
+He hit 5 threes when needed most,analysis,performance summary
+Spurs dared him to shoot,analysis,defensive strategy
+He made them pay at the end,analysis,result summary
+One of the best Game 7 performances,analysis,evaluation
+He struggled early in series,analysis,trend description
+Then took over late,analysis,momentum shift
+This game is underrated,reaction,opinion
+Still gives me chills,reaction,emotional response
+Bron was always clutch before and after,analysis,career consistency
+Everyone remembers Game 6 more,analysis,attention bias
+That shot sealed the deal,analysis,outcome summary
+People argue about clutch definition,analysis,debate point
+Stat name is misleading,analysis,stat critique
+He created 5 on 4 situations,analysis,tactical insight
+Defenders clogged the paint,analysis,defensive scheme
+He overthinks sometimes,analysis,player behavior
+He makes the right basketball play,analysis,decision making
+Fans are too narrative driven,analysis,media critique
+LeBron delivers in clutch moments often,analysis,pattern observation
+Two great teams going at it,analysis,matchup description
+Never seen anything like it since,reaction,hype statement
+Series had insane star power,analysis,roster strength
+People underrate this shot,reaction,opinion
+Ray Allen overshadowed it,analysis,comparison
+Still a dagger moment,reaction,conclusion emotion
+Media narratives stick too hard,analysis,media critique
+Clutch sample size is small,analysis,statistical reasoning
+Shot felt less dramatic due to time,analysis,context explanation
+Still sealed championship,analysis,outcome importance
+Greatest Game 7 finish ever,reaction,hyperbole
+This moment changed perception,analysis,legacy impact
+Spurs strategy worked until it didn’t,analysis,strategy summary
+LeBron just took over,reaction,hype conclusion
